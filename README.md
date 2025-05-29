@@ -24,7 +24,12 @@ The project explores the dynamics of the Brazilian e-commerce market using Olist
     - product_category_name_translation
 
 ## Key Insights
-
+- Southeast Brazil has the highest concentration of orders and sellers
+- Average delivery times vary significantly by region
+- Eletronic products and furniture are top-selling categories
+- Negative reviews are often linked to delivery delays
+- Payment by installments is the most common method
+- Customer segmentation reveals clusters by spending, frequency and location
 
 
 
