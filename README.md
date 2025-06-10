@@ -35,8 +35,8 @@ The project explores the dynamics of the Brazilian e-commerce market using Olist
 
 ## Deliverables
 - Python Jupyter Notebook: data loading, cleaning and scripts
-- Predictive Model:
-- Interactive Tableau Dashboard:
+- Predictive Model
+- Interactive Tableau Dashboard
 - Final report
 
 
